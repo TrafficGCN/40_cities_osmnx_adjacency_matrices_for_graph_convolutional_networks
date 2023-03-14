@@ -1,8 +1,10 @@
-# 40_cities_osmnx_adjacency_matrices_for_graph_convolutional_networks
+# 40 Cities OSMnx/Networkx Dijkstra Adjacency Matrices for Graph Convolutional Networks
 
 ## About
 
 Adjacency matrices were calculated for 40 cities using sensor data from https://doi.org/10.1038/s41598-019-51539-5 (ETH Zürich). I personally rented a Google Cloud server to calculate these matrices because we have so few of them in the traffic prediction Data Science community.
+
+![image](https://user-images.githubusercontent.com/53316058/217098922-fb6fb157-20dd-443f-8faa-217122097361.png)
 
 ## Terms of Use and Data Refrences
 
