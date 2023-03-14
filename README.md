@@ -43,6 +43,6 @@ https://github.com/ThomasAFink/optimal_path_dijkstra_for_data_science
 ## The Graph Neural Networks
 The optimal Dijkstra distances between each sensor with every other sensor was calculated using OSMnx and NetworkX. Each city includes atleast one normalized and one original matrice with the raw values. The Graph Networks for each city are visualized.
 
-<img src="https://github.com/ThomasAFink/40_cities_osmnx_adjacency_matrices_for_graph_convolutional_networks/blob/main/innsbruck/innsbruck_dijkstra_map.jpg?raw=true" width="49%" align="left">
+<img src="https://github.com/ThomasAFink/40_cities_osmnx_adjacency_matrices_for_graph_convolutional_networks/blob/main/innsbruck/innsbruck_dijkstra_map.jpg?raw=true" width="48%" align="left">
 
-<img src="https://github.com/ThomasAFink/40_cities_osmnx_adjacency_matrices_for_graph_convolutional_networks/blob/main/essen/essen_dijkstra_map.jpg?raw=true" width="49%" align="right">
+<img src="https://github.com/ThomasAFink/40_cities_osmnx_adjacency_matrices_for_graph_convolutional_networks/blob/main/essen/essen_dijkstra_map.jpg?raw=true" width="48%" align="right">
