@@ -1,4 +1,4 @@
-# 40 Cities OSMnx/Networkx Dijkstra Adjacency Matrices for Graph Convolutional Networks
+# 40 Cities OSMnx/Networkx Dijkstra Adjacency Matrices for Traffic Prediction Graph Convolutional Networks
 
 ## About
 
