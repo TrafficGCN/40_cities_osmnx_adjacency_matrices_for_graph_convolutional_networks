@@ -1,12 +1,4 @@
-'''
-Run this code on Google Cloud Services or Amazon Web Services for faster processing. A process for each row in the Dataframe is created.
 
-Originally posted by Wei-Meng Lee on towardsdatascience
-For graph neural networks fastest Dijkstra routes can be found using OpenStreetMap API. 
-https://towardsdatascience.com/visualization-in-python-finding-routes-between-points-2d97d4881996
-Multi processing on a CPU or using a GPU is advised as the the process is very resource intensive.
-
-'''
 import multiprocessing as mp
 import os
 import numpy as np
