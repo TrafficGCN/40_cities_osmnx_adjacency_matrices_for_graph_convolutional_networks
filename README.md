@@ -2,7 +2,7 @@
 
 ## About
 
-Adjacency matrices were calculated for 40 cities using sensor data from https://doi.org/10.1038/s41598-019-51539-5 (ETH Zürich). I personally rented a Google Cloud server to calaculate these because we have so few of them in the traffic prediction Data Science community.
+Adjacency matrices were calculated for 40 cities using sensor data from https://doi.org/10.1038/s41598-019-51539-5 (ETH Zürich). I personally rented a Google Cloud server to calculate these matrices because we have so few of them in the traffic prediction Data Science community.
 
 ## Terms of Use and Data Refrences
 
