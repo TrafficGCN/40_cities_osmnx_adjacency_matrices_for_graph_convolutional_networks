@@ -12,15 +12,15 @@ The code for mapping and calculating the matrices on the other hand is MIT licen
 
 ## Installation to Run the Code
 
-  Python 3.10.6
-  pip3 install osmnx==0.16.1
-  pip3 install shapely==1.8.0
-  pip3 install scipy
-  pip3 install networkx
-  pip3 install pandas
-  pip3 install geopandas==0.9.0
-  pip3 install -U kaleido
-  pip3 install plotly
+    Python 3.10.6
+    pip3 install osmnx==0.16.1
+    pip3 install shapely==1.8.0
+    pip3 install scipy
+    pip3 install networkx
+    pip3 install pandas
+    pip3 install geopandas==0.9.0
+    pip3 install -U kaleido
+    pip3 install plotly
 
 ## Tutorials
 Tutorials for the code have been provided on Medium by Thomas A. Fink.
