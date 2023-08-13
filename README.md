@@ -84,33 +84,33 @@ https://www.th.gov.bc.ca/trafficData/
 https://data.europa.eu/data/datasets?locale=en&query=traffic&page=1
 https://www.datex2.eu/
 
-Austria:
+##### Austria:
 https://contentportal.asfinag.at/data
 
-Belgium:
+##### Belgium:
 https://datastore.brussels/web/-
 https://www.verkeerscentrum.be/uitwisseling/datex2full-
 
-Catalonia:
+##### Catalonia:
 http://www.gencat.cat/transit/opendata/incidenciesGML.xml
 
-Czechia:
+##### Czechia:
 https://registr.dopravniinfo.cz/en/
 
-Estonia:
+##### Estonia:
 https://tarktee.mnt.ee/#/en/datex
 
-Finland:
+##### Finland:
 https://www.digitraffic.fi/en/road-traffic/
 https://aineistot.vayla.fi/roadworks/roadworks_d2.xml
 https://aineistot.vayla.fi/roadworks/roadworks_infoxml.xml
 https://aineistot.vayla.fi/painorajoitukset/painorajoitukset_d2.xml
 
-France:
+##### France:
 https://data.nasdaq.com/data/INSEE-national-institute-of-statistics-and-economic-studies-france
 https://opendata.paris.fr/explore/dataset/comptages-routiers-permanents/information/?disjunctive.libelle&disjunctive.etat_trafic&disjunctive.libelle_nd_amont&disjunctive.libelle_nd_aval
 
-Germany:
+##### Germany:
 https://opendata.muenchen.de/dataset?tags=Fahrrad
 https://www.offenedaten-koeln.de/search/type/dataset
 https://opendata.duesseldorf.de/dataset/verkehrsmeldungen-mobilit%C3%A4tsdaten
@@ -127,41 +127,41 @@ https://www.mdm-portal.de/migration/
 https://autobahn.api.bund.dev/
 https://www.mdm-portal.de/
 
-Italy:
+##### Italy:
 https://github.com/noi-techpark/BZtraffic
 
-Lithuania:
+##### Lithuania:
 http://restrictions.eismoinfo.lt/
 https://eismoinfo.lt/#!/
 
-Luxembourg:
+##### Luxembourg:
 https://www.cita.lu/info_trafic/datex/situationrecord
 
-Netherlands:
+##### Netherlands:
 http://opendata.ndw.nu/
 https://gitlab.com/traffxml/vild2ltef
 
-Norway:
+##### Norway:
 https://www.vegvesen.no/
 
-Poland:
+##### Poland:
 https://gitlab.com/traffxml/traff-gddkia
 https://kpd.gddkia.gov.pl/index.php/en/homepage/
 
-Slovenia:
+##### Slovenia:
 https://www.promet.si/en/plugins-for-developers
 
-Spain:
+##### Spain:
 https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=33cb30c367e78410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
 
-Sweden:
+##### Sweden:
 https://statistik.tkgbg.se//
 https://www.trafikverket.se/tjanster/Oppna_data/oppna-data-vi-erbjuder/
 
-Switzerland:
+##### Switzerland:
 https://www.astra.admin.ch/astra/de/home/dokumentation/daten-informationsprodukte/verkehrsdaten.html
 
-UK:
+##### UK:
 https://www.trafficengland.com/services-info
 https://www.traffic.gov.scot/datex/
 https://www.gov.uk/traffic-counts
