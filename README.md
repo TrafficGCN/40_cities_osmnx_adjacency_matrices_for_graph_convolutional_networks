@@ -27,7 +27,7 @@ https://thomasafink.medium.com/plotting-the-optimal-route-for-data-scientists-in
 https://github.com/ThomasAFink/optimal_path_dijkstra_for_data_science
 
 ## The Graph Networks
-The optimal Dijkstra distances between each sensor with every other sensor was calculated using OSMnx and NetworkX. Each city includes atleast one normalized and one original matrice with the raw values. The Graph Networks for each city are visualized.
+The optimal Dijkstra distances between each sensor with every other sensor was calculated using OSMnx and NetworkX. Each city includes atleast one normalized and one original matrice with the raw values. Two example Graph Networks visualized:
 
 <img src="https://github.com/ThomasAFink/40_cities_osmnx_adjacency_matrices_for_graph_convolutional_networks/blob/main/adj_matrix/innsbruck/innsbruck_dijkstra_map.jpg?raw=true" width="46%" align="left">
 
