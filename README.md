@@ -185,7 +185,7 @@ Several entries are take from [this stackexchange answer](http://opendata.stacke
 * [Massachusetts](http://www.massdot.state.ma.us/highway/TrafficVolumeCounts.aspx)
 * [Michigan](http://www.michigan.gov/mdot/0,4616,7-151-9615---,00.html) (seems to be no longer available)
 * [Minnesota](http://www.dot.state.mn.us/traffic/data/)
-* [New York City](https://data.cityofnewyork.us/Transportation/Real-Time-Traffic-Speed-Data/xsat-x5sa) and [New York](https://www.dot.ny.gov/highway-data-services)
+* [New York City](https://opendata.cityofnewyork.us/) and [New York](https://www.dot.ny.gov/highway-data-services)
 * [North Carolina](http://www.ncdot.gov/projects/trafficsurvey/)
 * [Ohio](http://www.dot.state.oh.us/Divisions/Planning/TechServ/traffic/Pages/Traffic-Count-Reports-and-Maps.aspx)
 * [Oregon](http://www.oregon.gov/ODOT/td/tdata/Pages/tsm/tvt.aspx)
