@@ -2,7 +2,7 @@
 
 ## About
 
-Adjacency matrices were calculated for 40 cities using sensor data from https://doi.org/10.1038/s41598-019-51539-5 (ETH Zürich). I personally rented a Google Cloud server for roughly 500€ to calculate these matrices because we have so few of them in the traffic prediction Data Science community.
+Adjacency matrices were calculated for 40 cities using sensor data from https://doi.org/10.1038/s41598-019-51539-5 (ETH Zürich). I personally rented a Google Cloud server for roughly 500€ to calculate these matrices because we have so few of them in the traffic prediction Data Science community. Since most models are being trained on just these few datasets there's risk for overfitting.
 
 Use remove_missing_sensors.py to remove sensors that aren't in both the matrix and data.
 
