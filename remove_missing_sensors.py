@@ -1,3 +1,5 @@
+# Remove sensors that aren't in both the matrix and data. An example with Los Angeles.
+
 import os
 import pandas as pd
 
