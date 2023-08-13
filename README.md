@@ -69,6 +69,7 @@ Source: https://github.com/graphhopper/open-traffic-collection
 https://wiki.openstreetmap.org/wiki/TMC#Available_datasets
 https://unece.org/transport/transport-statistics/traffic-census-2020
 https://telraam.net/#9/48.1497/11.5850
+https://www.graphhopper.com/open-source/
 
 ### Australia
 https://data-exchange.vicroads.vic.gov.au/
