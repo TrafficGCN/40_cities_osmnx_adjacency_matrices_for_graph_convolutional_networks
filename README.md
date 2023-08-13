@@ -60,7 +60,6 @@ The optimal Dijkstra distances between each sensor with every other sensor was c
 <br />
 <br />
 <br />
-<hr />
 
 ## More Data Sources
 
