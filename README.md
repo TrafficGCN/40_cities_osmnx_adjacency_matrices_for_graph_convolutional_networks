@@ -8,14 +8,14 @@ Use remove_missing_sensors.py to remove sensors that aren't in both the matrix a
 
 ## Terms of Use and Data Refrences
 <img src="https://thomasafink.com/wp-content/uploads/2023/08/P8250742-scaled.jpg" width="450" align="right">
-To use or publish this data, you must register and follow the terms of use, which can be found at the bottom of their dataset website UTD19 https://utd19.ethz.ch/. The website UTD19 https://utd19.ethz.ch/ and paper must be referenced "Understanding traffic capacity of urban networks" https://doi.org/10.1038/s41598-019-51539-5. It's best to reference the school as well, Eidgenössische Technische Hochschule Zürich (ETH Zürich). 6GB data collected from the sensors is also available when signing up for UTD19 https://utd19.ethz.ch/. 
+To use or publish this data, you must register and follow the terms of use, which can be found at the bottom of the dataset website UTD19 https://utd19.ethz.ch/. The website UTD19 https://utd19.ethz.ch/ and paper must be referenced "Understanding traffic capacity of urban networks" https://doi.org/10.1038/s41598-019-51539-5. It's best to reference the school as well, Eidgenössische Technische Hochschule Zürich (ETH Zürich). 6GB data collected from the sensors is also available when signing up for UTD19 https://utd19.ethz.ch/. 
 
 
 <i>Loder, A., L. Ambühl, M. Menendez and K.W. Axhausen (2019) Understanding traffic capacity of urban networks, Scientific Reports, 9 (1) 16283. https://doi.org/10.1038/s41598-019-51539-5 </i>
 
 OpenStreetMap https://www.openstreetmap.org/ must also be referenced because the matrices where calculated using OpenStreetMap. If you use any of the Maps you must reference both OpenStreetMap and Mapbox https://www.mapbox.com/ in addition to UTD19.
 
-Furthermore it's probably best practice to also reference cities in publications. Additional data can often be recieved upon opendata requests from cities. 
+Furthermore it's probably best practice to also reference cities in publications. Additional data can often be received upon opendata requests from cities. 
 
 The code for mapping and calculating the matrices on the other hand is MIT licence. 
 
