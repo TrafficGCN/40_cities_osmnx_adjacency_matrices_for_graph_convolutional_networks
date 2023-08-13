@@ -37,3 +37,164 @@ The optimal Dijkstra distances between each sensor with every other sensor was c
 <img src="https://github.com/ThomasAFink/40_cities_osmnx_adjacency_matrices_for_graph_convolutional_networks/blob/main/adj_matrix/innsbruck/innsbruck_dijkstra_map.jpg?raw=true" width="46%" align="left">
 
 <img src="https://github.com/ThomasAFink/40_cities_osmnx_adjacency_matrices_for_graph_convolutional_networks/blob/main/adj_matrix/essen/essen_dijkstra_map.jpg?raw=true" width="46%" align="right">
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hr />
+
+## More Data Sources
+
+Source: https://github.com/graphhopper/open-traffic-collection
+
+### Global
+https://wiki.openstreetmap.org/wiki/TMC#Available_datasets
+https://unece.org/transport/transport-statistics/traffic-census-2020
+https://telraam.net/#9/48.1497/11.5850
+
+### Australia
+https://data-exchange.vicroads.vic.gov.au/
+https://data-exchange.vicroads.vic.gov.au/docs/services
+https://data-exchange.vicroads.vic.gov.au/data-exchange-platform-goes-live
+
+### Canada
+British Columbia
+https://www.th.gov.bc.ca/trafficData/
+
+### Europe:
+https://data.europa.eu/data/datasets?locale=en&query=traffic&page=1
+https://www.datex2.eu/
+
+Austria:
+https://contentportal.asfinag.at/data
+
+Belgium:
+https://datastore.brussels/web/-
+https://www.verkeerscentrum.be/uitwisseling/datex2full-
+
+Catalonia:
+http://www.gencat.cat/transit/opendata/incidenciesGML.xml
+
+Czechia:
+https://registr.dopravniinfo.cz/en/
+
+Estonia:
+https://tarktee.mnt.ee/#/en/datex
+
+Finland:
+https://www.digitraffic.fi/en/road-traffic/
+https://aineistot.vayla.fi/roadworks/roadworks_d2.xml
+https://aineistot.vayla.fi/roadworks/roadworks_infoxml.xml
+https://aineistot.vayla.fi/painorajoitukset/painorajoitukset_d2.xml
+
+France:
+https://data.nasdaq.com/data/INSEE-national-institute-of-statistics-and-economic-studies-france
+https://opendata.paris.fr/explore/dataset/comptages-routiers-permanents/information/?disjunctive.libelle&disjunctive.etat_trafic&disjunctive.libelle_nd_amont&disjunctive.libelle_nd_aval
+
+Germany:
+https://opendata.muenchen.de/dataset?tags=Fahrrad
+https://www.offenedaten-koeln.de/search/type/dataset
+https://opendata.duesseldorf.de/dataset/verkehrsmeldungen-mobilit%C3%A4tsdaten
+https://opendata.jena.de/group/mobilitat
+https://darmstadt.ui-traffic.de/faces/TrafficData.xhtml
+https://suche.transparenz.hamburg.de/dataset/geo-online-portal-hamburg
+https://geodienste.hamburg.de/HH_WFS_Verkehr_opendata?REQUEST=GetCapabilities&SERVICE=WFS
+https://open.nrw/dataset/verkehrszentrale-verkehrsinformationen-der-viz-nrw-fuer-nordrhein-westfalen-1476687235163
+https://open.nrw/dataset/verkehrszentrale-verkehrslage-los-1476688071631
+https://www.mcloud.de/web/guest/suche/-/results/detail/verkehrsdatenautomatischedauerzhlstellen
+https://www.bast.de/DE/Verkehrstechnik/Fachthemen/v2-verkehrszaehlung/Daten/2017_1/Jawe2017.html?nn=1819490
+https://mobilithek.info/
+https://www.mdm-portal.de/migration/
+https://autobahn.api.bund.dev/
+https://www.mdm-portal.de/
+
+Italy:
+https://github.com/noi-techpark/BZtraffic
+
+Lithuania:
+http://restrictions.eismoinfo.lt/
+https://eismoinfo.lt/#!/
+
+Luxembourg:
+https://www.cita.lu/info_trafic/datex/situationrecord
+
+Netherlands:
+http://opendata.ndw.nu/
+https://gitlab.com/traffxml/vild2ltef
+
+Norway:
+https://www.vegvesen.no/
+
+Poland:
+https://gitlab.com/traffxml/traff-gddkia
+https://kpd.gddkia.gov.pl/index.php/en/homepage/
+
+Slovenia:
+https://www.promet.si/en/plugins-for-developers
+
+Spain:
+https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=33cb30c367e78410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
+
+Sweden:
+https://statistik.tkgbg.se//
+https://www.trafikverket.se/tjanster/Oppna_data/oppna-data-vi-erbjuder/
+
+Switzerland:
+https://www.astra.admin.ch/astra/de/home/dokumentation/daten-informationsprodukte/verkehrsdaten.html
+
+UK:
+https://www.trafficengland.com/services-info
+https://www.traffic.gov.scot/datex/
+https://www.gov.uk/traffic-counts
+https://www.data.gov.uk/dataset/dc18f7d5-2669-490f-b2b5-77f27ec133ad/highways-agency-network-journey-time-and-traffic-flow-data
+
+### USA
+
+Several entries are take from [this stackexchange answer](http://opendata.stackexchange.com/a/1772/12662)
+
+* [nationwide](http://www.fhwa.dot.gov/policyinformation/travel_monitoring/tvt.cfm)
+* [Alabama](https://www.dot.state.al.us/maweb/trafficMonitoring/trafficMonitoring.html)
+* [Arizona](http://www.azdot.gov/planning/DataandAnalysis)
+* [Arlington](https://www.arlingtonva.us/Government/Projects/22202-Data/Traffic-Transit-Data)
+* [California](http://traffic-counts.dot.ca.gov/)
+* [Chicago](https://data.cityofchicago.org/browse?tags=traffic) or [one specific set](https://data.cityofchicago.org/Transportation/Average-Daily-Traffic-Counts/pfsx-4n4m)
+* [Colorado](http://dtdapps.coloradodot.info/otis)
+* [Delaware Valley](http://www.dvrpc.org/webmaps/trafficcounts/)
+* [Florida](http://www.dot.state.fl.us/planning/statistics/trafficdata/)
+* [Indiana](http://www.in.gov/indot/2720.htm)
+* [Maine](http://www.maine.gov/mdot/traffic/ytc/)
+* [Massachusetts](http://www.massdot.state.ma.us/highway/TrafficVolumeCounts.aspx)
+* [Michigan](http://www.michigan.gov/mdot/0,4616,7-151-9615---,00.html) (seems to be no longer available)
+* [Minnesota](http://www.dot.state.mn.us/traffic/data/)
+* [New York City](https://data.cityofnewyork.us/Transportation/Real-Time-Traffic-Speed-Data/xsat-x5sa) and [New York](https://www.dot.ny.gov/highway-data-services)
+* [North Carolina](http://www.ncdot.gov/projects/trafficsurvey/)
+* [Ohio](http://www.dot.state.oh.us/Divisions/Planning/TechServ/traffic/Pages/Traffic-Count-Reports-and-Maps.aspx)
+* [Oregon](http://www.oregon.gov/ODOT/td/tdata/Pages/tsm/tvt.aspx)
+* [South Carolina](http://www.scdot.org/getting/trafficcounts.aspx)
+* [Tennessee](http://www.tdot.state.tn.us/projectplanning/adt.asp) (seems to be no longer available)
+* [Washington](http://www.wsdot.wa.gov/mapsdata/travel/annualtrafficreport.htm)
+* [Wisconsin](http://wisconsindot.gov/Pages/projects/data-plan/traf-counts/default.aspx)
+
+New York City: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+### Other
+https://opentraffic.io/
