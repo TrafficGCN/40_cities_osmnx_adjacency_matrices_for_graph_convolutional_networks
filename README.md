@@ -4,6 +4,8 @@
 
 Adjacency matrices were calculated for 40 cities using sensor data from https://doi.org/10.1038/s41598-019-51539-5 (ETH Zürich). I personally rented a Google Cloud server for roughly 500€ to calculate these matrices because we have so few of them in the traffic prediction Data Science community.
 
+Use remove_missing_sensors.py to remove senors that aren't in the data but are in the matrix and vice versa.
+
 ## Terms of Use and Data Refrences
 <img src="https://thomasafink.com/wp-content/uploads/2023/08/P8250742-scaled.jpg" width="450" align="right">
 To use or publish this data, you must register and follow the terms of use, which can be found at the bottom of their dataset website UTD19 https://utd19.ethz.ch/. The website UTD19 https://utd19.ethz.ch/ and paper must be referenced "Understanding traffic capacity of urban networks" https://doi.org/10.1038/s41598-019-51539-5. It's best to reference the school as well, Eidgenössische Technische Hochschule Zürich (ETH Zürich). 6GB data collected from the sensors is also available when signing up for UTD19 https://utd19.ethz.ch/. 
