@@ -1,5 +1,9 @@
 # 40 Cities OSMnx/Networkx Dijkstra Adjacency Matrices for Traffic Prediction Graph Convolutional Networks
 
+## About
+
+Adjacency matrices were calculated for 40 cities using sensor data from https://doi.org/10.1038/s41598-019-51539-5 (ETH Zürich). I personally rented a Google Cloud server to calculate these matrices because we have so few of them in the traffic prediction Data Science community.
+
 ## Terms of Use and Data Refrences
 
 To use or publish this data, you must register and follow the terms of use, which can be found at the bottom of their dataset website UTD19 https://utd19.ethz.ch/. There website UTD19 https://utd19.ethz.ch/ and paper must be referenced "Understanding traffic capacity of urban networks" https://doi.org/10.1038/s41598-019-51539-5. It's best to reference the school as well, Eidgenössische Technische Hochschule Zürich (ETH Zürich). 10GB data collected from the sensors is also available when signing up for UTD19 https://utd19.ethz.ch/. 
@@ -9,12 +13,6 @@ OpenStreetMap https://www.openstreetmap.org/ must also be referenced because the
 Furthermore it's probably best practice to also reference cities in publications. Additional data can often be recieved upon opendata requests from cities. 
 
 The code for mapping and calculating the matrices on the other hand is MIT licence. 
-
-## About
-
-Adjacency matrices were calculated for 40 cities using sensor data from https://doi.org/10.1038/s41598-019-51539-5 (ETH Zürich). I personally rented a Google Cloud server to calculate these matrices because we have so few of them in the traffic prediction Data Science community.
-
-![image](https://user-images.githubusercontent.com/53316058/217098922-fb6fb157-20dd-443f-8faa-217122097361.png)
 
 ## Tutorials
 Tutorials for the code have been provided on Medium by Thomas A. Fink.
