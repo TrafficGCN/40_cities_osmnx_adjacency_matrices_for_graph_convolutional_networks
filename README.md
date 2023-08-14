@@ -8,7 +8,7 @@ Use remove_missing_sensors.py to remove sensors that aren't in both the matrix a
 
 ## Terms of Use and Data Refrences
 <img src="https://thomasafink.com/wp-content/uploads/2023/08/P8250742-scaled.jpg" width="450" align="right">
-To use or publish this data, you must register and follow the terms of use, which can be found at the bottom of the dataset website UTD19 https://utd19.ethz.ch/. The website UTD19 https://utd19.ethz.ch/ and paper must be referenced "Understanding traffic capacity of urban networks" https://doi.org/10.1038/s41598-019-51539-5. It's best to reference the school as well, Eidgenössische Technische Hochschule Zürich (ETH Zürich). 6GB data collected from the sensors is also available when signing up for UTD19 https://utd19.ethz.ch/. 
+I'm NOT affiliated with ETH Zürich nor with the Dataset UTD19. To use or publish this data, you must register and follow the terms of use, which can be found at the bottom of the dataset website UTD19 https://utd19.ethz.ch/. The website UTD19 https://utd19.ethz.ch/ and paper must be referenced "Understanding traffic capacity of urban networks" https://doi.org/10.1038/s41598-019-51539-5. It's best to reference the school as well, Eidgenössische Technische Hochschule Zürich (ETH Zürich). 6GB data collected from the sensors is also available when signing up for UTD19 https://utd19.ethz.ch/. 
 
 
 <i>Loder, A., L. Ambühl, M. Menendez and K.W. Axhausen (2019) Understanding traffic capacity of urban networks, Scientific Reports, 9 (1) 16283. https://doi.org/10.1038/s41598-019-51539-5 </i>
@@ -56,6 +56,8 @@ The optimal Dijkstra distances between each sensor with every other sensor was c
 <br />
 <br />
 <br />
+<br />
+<br />
 
 ## The Data
 The data can be used for machine learning, but not all cities have enough data. Variables include speed flow and occupancy. I have only tested the Los Angeles dataset with an LSTM-GCN model so far. Accuracy, R2 and Variance were over 90% on par with other datasets such as METR-LA and PEMS-BAY.
@@ -65,6 +67,8 @@ The data can be used for machine learning, but not all cities have enough data. 
 <img 
 src="https://raw.githubusercontent.com/ThomasAFink/40_cities_osmnx_adjacency_matrices_for_graph_convolutional_networks/main/img/sensor_1000_predictions_48hrs.jpg" width="46%" align="right">
 
+<br />
+<br />
 <br />
 <br />
 <br />
