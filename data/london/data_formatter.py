@@ -5,6 +5,8 @@ OS_PATH = os.path.dirname(os.path.realpath('__file__'))
 
 print(OS_PATH)
 
+'''
+
 print("Processing speed...")
 
 # Load your data into a DataFrame
@@ -83,7 +85,7 @@ pivot_df.sort_values(by='DATETIMESTEP', inplace=True)
 
 # Saving the DataFrame to a new CSV file
 pivot_df.to_csv(OS_PATH + '/data/london/utd19_u_london_flow.csv', index=False)
-
+'''
 
 print("Processing occ...")
 

@@ -36,18 +36,23 @@ split_csv(OS_PATH + '/data/london/utd19_u_london_flow.csv', OS_PATH +  '/data/lo
 split_csv(OS_PATH + '/data/london/utd19_u_london_occ.csv', OS_PATH +  '/data/london/utd19_u_london_occ_part1.csv', OS_PATH +  '/data/london/utd19_u_london_occ_part2.csv')
 '''
 
+
+
+
+
 import os
 import csv
 
-def split_csv_three_parts(input_filename, output_filename1, output_filename2, output_filename3):
+def split_csv_four_parts(input_filename, output_filename1, output_filename2, output_filename3, output_filename4):
     """
-    Split a CSV file into three roughly equal parts by rows.
+    Split a CSV file into four roughly equal parts by rows.
 
     Parameters:
         - input_filename: the name of the input CSV file.
         - output_filename1: the name of the first output CSV file.
         - output_filename2: the name of the second output CSV file.
         - output_filename3: the name of the third output CSV file.
+        - output_filename4: the name of the fourth output CSV file.
     """
     
     # First, count the number of rows in the input file
@@ -56,22 +61,28 @@ def split_csv_three_parts(input_filename, output_filename1, output_filename2, ou
         rows = list(reader)
         total_rows = len(rows)
     
-    # Now, write the rows to the three output files
-    with open(output_filename1, 'w', newline='') as dest1, open(output_filename2, 'w', newline='') as dest2, open(output_filename3, 'w', newline='') as dest3:
+    # Now, write the rows to the four output files
+    with open(output_filename1, 'w', newline='') as dest1, open(output_filename2, 'w', newline='') as dest2, open(output_filename3, 'w', newline='') as dest3, open(output_filename4, 'w', newline='') as dest4:
         writer1 = csv.writer(dest1)
         writer2 = csv.writer(dest2)
         writer3 = csv.writer(dest3)
+        writer4 = csv.writer(dest4)
         
         for i, row in enumerate(rows):
-            if i < total_rows / 3:
+            if i < total_rows / 4:
                 writer1.writerow(row)
-            elif i < (2 * total_rows) / 3:
+            elif i < (2 * total_rows) / 4:
                 writer2.writerow(row)
-            else:
+            elif i < (3 * total_rows) / 4:
                 writer3.writerow(row)
+            else:
+                writer4.writerow(row)
 
 OS_PATH = os.path.dirname(os.path.realpath('__file__'))
 
-split_csv_three_parts(OS_PATH + '/data/london/utd19_u_london_speed.csv', OS_PATH +  '/data/london/utd19_u_london_speed_part1.csv', OS_PATH +  '/data/london/utd19_u_london_speed_part2.csv', OS_PATH +  '/data/london/utd19_u_london_speed_part3.csv')
-split_csv_three_parts(OS_PATH + '/data/london/utd19_u_london_flow.csv', OS_PATH +  '/data/london/utd19_u_london_flow_part1.csv', OS_PATH +  '/data/london/utd19_u_london_flow_part2.csv', OS_PATH +  '/data/london/utd19_u_london_flow_part3.csv')
-split_csv_three_parts(OS_PATH + '/data/london/utd19_u_london_occ.csv', OS_PATH +  '/data/london/utd19_u_london_occ_part1.csv', OS_PATH +  '/data/london/utd19_u_london_occ_part2.csv', OS_PATH +  '/data/london/utd19_u_london_occ_part3.csv')
+# Using the modified function to split the CSV file into four parts.
+split_csv_four_parts(OS_PATH + '/data/london/utd19_u_london_occ.csv',
+                     OS_PATH + '/data/london/utd19_u_london_occ_part1.csv',
+                     OS_PATH + '/data/london/utd19_u_london_occ_part2.csv',
+                     OS_PATH + '/data/london/utd19_u_london_occ_part3.csv',
+                     OS_PATH + '/data/london/utd19_u_london_occ_part4.csv')
