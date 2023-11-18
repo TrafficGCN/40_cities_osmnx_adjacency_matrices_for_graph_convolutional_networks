@@ -220,6 +220,7 @@ Several entries are take from [this stackexchange answer](http://opendata.stacke
 * [Wisconsin](http://wisconsindot.gov/Pages/projects/data-plan/traf-counts/default.aspx)
 
 New York City: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
 New York City Bike: https://citibikenyc.com/system-data
 
 ### Other
